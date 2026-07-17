@@ -1,0 +1,13 @@
+import calculadora # type: ignore
+resultado = calculadora.soma(10, 20, 30)
+print(resultado)
+resultado = calculadora.soma(10)
+print(resultado)
+resultado = calculadora.subtracao(10, 5)
+print(resultado)
+resultado = calculadora.multiplicacao(2, 4, 2)
+print(resultado)
+resultado = calculadora.divisao(10, 2)
+print(resultado)
+resultado = calculadora.divisao(10, 0)
+print(resultado)
