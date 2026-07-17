@@ -55,11 +55,9 @@ Cada pasta representa uma aula da disciplina, contendo os exercícios e desafios
 | [Aula 13](./aula-13-pandas-tkinter-streamlit/) | Exemplos Práticos de Pandas e Tkinter | Comparativo Tkinter (desktop) x Streamlit (web) implementando o mesmo leitor de planilhas Excel com Pandas |
 | [Aula 14](./aula-14-revisao-final/) | Revisão Final | Revisão geral do conteúdo do semestre e Desafio Final avaliativo (conversão lista de listas → dicionário de dicionários) |
 
-> Este índice será atualizado à medida que mais aulas forem adicionadas.
-
 ## Trabalho Final
 
-O Trabalho Final da disciplina — um jogo de Campo Minado em Python, com placar persistente em arquivo — foi grande o suficiente para justificar um repositório próprio, em vez de ficar como mais uma pasta de aula aqui: **[campo-minado-python](https://github.com/SEU-USUARIO/campo-minado-python)** *(atualize este link após criar o repositório)*.
+O Trabalho Final da disciplina — um jogo de Campo Minado em Python, com placar persistente em arquivo — foi grande o suficiente para justificar um repositório próprio, em vez de ficar como mais uma pasta de aula aqui: **[campo-minado-python](https://github.com/DiegoBessas/campo-minado-python)**.
 
 ## Como executar os programas
 
