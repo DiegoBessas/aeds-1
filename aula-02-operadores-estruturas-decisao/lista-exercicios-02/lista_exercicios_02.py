@@ -1,0 +1,61 @@
+print('EXCERCÍCIO 1:')
+letra=str(input('Insira uma letra: '))
+if(letra=='A')or(letra=='E')or(letra=='I')or(letra=='O')or(letra=='U'):print('A letra informada é vogal maiuscula.')
+elif(letra=='a')or(letra=='e')or(letra=='i')or(letra=='o')or(letra=='u'):print('A letra informada é vogal minúscula.')
+elif(letra=='B')or(letra=='C')or(letra=='D')or(letra=='F')or(letra=='G')or(letra=='H')or(letra=='J')or(letra=='K')or(letra=='L')or(letra=='M'):print('A letra informada é consoante maiuscula.')
+elif(letra=='N')or(letra=='P')or(letra=='Q')or(letra=='R')or(letra=='S')or(letra=='T')or(letra=='V')or(letra=='W')or(letra=='X')or(letra=='Y')or(letra=='Z'):print('A letra informada é consoante maiuscula.')
+elif(letra=='b')or(letra=='c')or(letra=='d')or(letra=='f')or(letra=='g')or(letra=='h')or(letra=='j')or(letra=='k')or(letra=='l')or(letra=='m'):print('A letra informada é consoante minúscula.')
+elif(letra=='n')or(letra=='p')or(letra=='q')or(letra=='r')or(letra=='s')or(letra=='t')or(letra=='v')or(letra=='w')or(letra=='x')or(letra=='y')or(letra=='z'):print('A letra informada é consoante minúscula.')
+else:print('Valor inválido!')
+
+print('EXCERCÍCIO 2:')
+nota1=float(input('Informe a 1ª nota: '))
+nota2=float(input('Informe 2ª nota: '))
+soma=(nota1+nota2)
+media=(soma/2)
+print(media)
+if(media>=7)and(media<10):print('Aprovado.')
+elif(media<7):print('Reprovado.')
+elif(media==10):print('Aprovado com Distinção!')
+else:print('Valor inválido!')
+
+print('EXCERCÍCIO 3:')
+salario=int(input('Informe o salário: '))
+aumento=int(input('Informe o valor do aumento: '))
+salario_novo=(salario+aumento)
+print('Salário atual:')
+print(salario)
+if(salario<=1200):print('Percentual de aummento: 20%')
+elif(salario>1200)and(salario<=1800):print('Percentual de aumento: 15%')
+elif(salario>1800)and(salario<=2500):print('Percentual de aumento: 10%')
+elif(salario>2500):print('Percentual de aumento: 5%')
+else:print('Valor inválido!')
+print('Valor do aumento:')
+print(aumento)
+print('Novo salário:')
+print(salario_novo)
+
+print('EXCERCÍCIO 4')
+numero1=int(input('Informe o 1º número: '))
+numero2=int(input('Informe o 2º número: '))
+operacao=input('Informe a operação desejada: ')
+soma=numero1+numero2
+sub=numero1-numero2
+multi=numero1*numero2
+div=numero1/numero2
+num=soma
+num=sub
+num=multi
+num=div
+if(operacao=='+'):print(soma)
+elif(operacao=='-'):print(sub)
+elif(operacao=='*'):print(multi)
+elif(operacao=='/'):print(div)
+else:print('Valor inválido!')
+if(num%2==0):print('Número par')
+else:print('Número ímpar')
+if(num>0):print('Número positivo')
+elif(num<0):print('Número negativo')
+else:print('Número neutro')
+if(num==int(num)):print('Número inteiro')
+else:print('Número decimal')
