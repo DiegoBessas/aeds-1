@@ -26,7 +26,7 @@ A pasta [`exercicios-praticos-aula-08`](./exercicios-praticos-aula-08/) contém 
 
 ## Contexto adicional — Trabalho Final da disciplina
 
-O material desta aula também apresenta o enunciado do **Trabalho Final** da disciplina: um programa com aplicação no mundo real, incluindo armazenamento de dados em arquivo, uso de estruturas de dados compostas (listas, dicionários, sets etc.), um ou mais módulos próprios e ao menos 5 funções, permitindo cadastro, pesquisa e interação com os dados. Esse trabalho é tratado como um projeto à parte e será documentado em um repositório/pasta próprio quando o material correspondente for enviado.
+O material desta aula também apresenta o enunciado do **Trabalho Final** da disciplina: um programa com aplicação no mundo real, incluindo armazenamento de dados em arquivo, uso de estruturas de dados compostas (listas, dicionários, sets etc.), um ou mais módulos próprios e ao menos 5 funções, permitindo cadastro, pesquisa e interação com os dados. Esse trabalho foi implementado como um jogo de Campo Minado e documentado em um repositório próprio: **[campo-minado-python](https://github.com/SEU-USUARIO/campo-minado-python)**.
 
 ## Como executar
 
