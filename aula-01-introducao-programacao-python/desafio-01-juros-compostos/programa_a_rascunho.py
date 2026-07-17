@@ -1,0 +1,13 @@
+conta=float(input('Informe o valor do investimento'))
+conta=1.01*conta
+conta=1.01*conta
+conta=1.01*conta
+conta=1.01*conta
+conta=1.01*conta
+conta=1.01*conta
+conta=1.01*conta
+conta=1.01*conta
+conta=1.01*conta
+conta=1.01*conta
+conta=1.01*conta
+conta=1.01*conta
